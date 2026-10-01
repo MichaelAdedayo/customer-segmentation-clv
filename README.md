@@ -145,4 +145,4 @@ Notebook, SQL, Power BI
 
 ## Author
 
-Michael Adedayo — [LinkedIn] · [GitHub]
+## Michael Adedayo — Data Analyst, Data Scientist, Machine Learning.
